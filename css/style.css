@@ -1,0 +1,16 @@
+/* global style start */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* global style end */
+
+/* font related style start */
+
+.font-manrope {
+    font-family: 'Manrope', sans-serif;
+}
+
+/* font related style end */
